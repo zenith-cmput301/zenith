@@ -1,3 +1,3 @@
 # zenith
 For CMPUT 301's lab 4
-CCID: lkpaquin
+Lauren Paquin, CCID: lkpaquin, Branch Name: Lauren
